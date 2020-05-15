@@ -16,3 +16,7 @@ body {
 #container h1 {
     text-size-adjust: 30px;
 }
+
+#footer {
+    text-align: left;
+}
